@@ -1,0 +1,52 @@
+canvas {
+  border: 1px solid #004347;
+  background: #d5d5d5;
+  background: linear-gradient(356deg, #d5d5d5 0%, #14accb 100%);
+}
+
+body {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  -webkit-animation: gradient 15s ease infinite;
+          animation: gradient 15s ease infinite;
+  height: 100vh;
+  font-family: "Press Start 2P", cursive;
+}
+
+@-webkit-keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+button {
+  background: lightgray;
+  padding: .77em 2.1em;
+  margin: .49em;
+  border: 2.1px solid;
+  font: inherit;
+}
+
+button:hover {
+  color: white;
+  background: gray;
+}
+/*# sourceMappingURL=style.css.map */

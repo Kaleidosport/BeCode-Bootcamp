@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Canvas exercise: PewPew</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="description" content="Canvas exercise, creating a basic shooting game">
+    <meta name="keywords" content="Progress, Canvas, JavaScript, training">
+    <meta name="author" content="Kaleidosport">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <!-- Additional CSS -->
+    <link rel="stylesheet" href="./Assets/style.css" />
+
+    <!-- Additional font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">  
+  </head>
+
+  <body class="text-center">
+
+      <header>
+          <h1>PEW-PEW!</h1>
+      </header>
+
+      <main>
+
+        <section class="d-flex justify-content-evenly mb-2">
+          <div>Score: <span id="score">0</span></div>
+          <div>Time left: <span id="timer">35</span></div>
+        </section>
+
+        <canvas id="game-area" width="490" height="350">Your browser doesn't support Canvas</canvas>
+        <p id="game-status" class="mt-2">Shoot'em all & save the day!</p>
+        <button id="play">Play</button>
+          
+      </main>
+
+  </body>
+
+  <!-- Javascript -->
+  <script src="./Assets/script.js"></script>
+  
+</html>
