@@ -1,0 +1,29 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "My first app within the scope of BeCode's NodeJS training",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleidosport/firstapp.git"
+  },
+  "keywords": [
+    "Thunderclient",
+    "Node"
+  ],
+  "author": "Kaleidosport",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleidosport/firstapp/issues"
+  },
+  "homepage": "https://github.com/Kaleidosport/firstapp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "jsonfile": "^6.1.0"
+  }
+}

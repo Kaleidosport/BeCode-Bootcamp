@@ -1,0 +1,355 @@
+@import url("https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  width: 1262.67px;
+}
+
+.Navbar {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-row: 1;
+  grid-row: 1;
+  -ms-grid-columns: 0 4fr 5fr;
+      grid-template-columns: 0 4fr 5fr;
+  height: 30px;
+  background-color: black;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: "Passion One", sans-serif;
+  text-transform: uppercase;
+  font-size: 1.25em;
+}
+
+.Navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: -moz-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-grid-column: 3;
+  grid-column: 3;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.Navbar ul li {
+  color: white;
+  padding: 2rem;
+}
+
+.woodstockbg {
+  background-image: url("https://www.teahub.io/photos/full/264-2648820_wood-wallpapers-hd-desktop-download-high-resolution-wooden.jpg");
+  position: relative;
+  height: 44rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.upperlayer {
+  background-color: rgba(0, 0, 0, 0.625);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  color: white;
+  margin: 0;
+  z-index: 1;
+  text-transform: uppercase;
+  letter-spacing: .6rem;
+  font-size: xx-large;
+  font-family: "Passion One", sans-serif;
+}
+
+.about, .shop {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 3.6rem;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 4.8rem;
+}
+
+.about img, .shop img {
+  max-height: 480px;
+}
+
+.about .verticaladd, .shop .verticaladd {
+  color: #dda153;
+}
+
+.about h2, .shop h2 {
+  text-transform: uppercase;
+  font-family: "Passion One", sans-serif;
+}
+
+.about p, .shop p {
+  max-width: 80%;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.8;
+  color: rgba(78, 48, 8, 0.884);
+}
+
+.learnmore, .store, .team {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border: 3px solid #dda153;
+  border-radius: 1px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+  -moz-user-select: none;
+   -ms-user-select: none;
+       user-select: none;
+  -webkit-user-select: none;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  will-change: transform;
+}
+
+.learnmore:disabled, .store:disabled, .team:disabled {
+  pointer-events: none;
+}
+
+.learnmore:hover, .store:hover, .team:hover {
+  color: white;
+  background-color: #1A1A1A;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+          box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  -webkit-transform: translateY(-2px);
+          transform: translateY(-2px);
+}
+
+.learnmore:active, .store:active, .team:active {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+
+.learnmore a, .store a, .team a {
+  text-decoration: none;
+  color: rgba(78, 48, 8, 0.884);
+  text-transform: uppercase;
+  letter-spacing: 1.8px;
+}
+
+.learnmore a:hover, .store a:hover, .team a:hover {
+  color: white;
+}
+
+.learnmore a:visited, .store a:visited, .team a:visited {
+  color: goldenrod;
+}
+
+.shop {
+  padding: 6rem;
+}
+
+.shop p {
+  max-width: 100%;
+}
+
+.shop img {
+  max-width: 500px;
+}
+
+.mindset {
+  background-color: #251503;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 5rem;
+  padding-right: 7.5rem;
+  gap: 2.5rem;
+}
+
+.mindset img {
+  opacity: 0.75;
+  -o-object-fit: contain;
+     object-fit: contain;
+  max-height: 762px;
+}
+
+.mindset h2 {
+  font-family: "Passion One", sans-serif;
+  font-size: 3rem;
+  letter-spacing: .2rem;
+  margin-bottom: 0;
+}
+
+.mindset h2 #creative {
+  background-color: white;
+  padding: .5rem 2rem;
+  color: #251503;
+  margin-left: -7.5rem;
+  z-index: 0;
+  position: relative;
+}
+
+.mindset h2 #goog {
+  color: white;
+}
+
+.mindset p {
+  max-width: 90%;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.8;
+  color: white;
+  padding: 2.5rem 0;
+}
+
+.team {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.team:hover {
+  background: black;
+  font-size: 20px;
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+}
+
+.contactform {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding-bottom: 4.5rem;
+}
+
+.contactform h3 {
+  color: #251503;
+  letter-spacing: .15rem;
+}
+
+.contactform .name, .contactform .emailaddress, .contactform .textarea {
+  padding: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 40%;
+}
+
+.contactform .emailaddress, .contactform .textarea {
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.contactform .textarea textarea {
+  resize: none;
+  border-radius: 6px;
+  border-color: rgba(78, 48, 8, 0.884);
+  border-width: 1.5px;
+  padding: 6px;
+}
+
+input {
+  border-color: rgba(78, 48, 8, 0.884);
+  border-radius: 18px;
+  border-width: 1.5px;
+  padding: 6px;
+}
+
+::-webkit-input-placeholder {
+  color: #dda153;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.04rem;
+}
+
+:-ms-input-placeholder {
+  color: #dda153;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.04rem;
+}
+
+::-ms-input-placeholder {
+  color: #dda153;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.04rem;
+}
+
+::placeholder {
+  color: #dda153;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.04rem;
+}
+
+.footer {
+  height: 90px;
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer footer {
+  color: white;
+  font-family: "Passion One", sans-serif;
+  font-size: 4.8rem;
+  letter-spacing: 1.8rem;
+}
+/*# sourceMappingURL=Style.css.map */

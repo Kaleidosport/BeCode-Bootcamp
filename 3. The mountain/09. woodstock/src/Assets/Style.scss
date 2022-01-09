@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+$decorativecolor: rgb(221, 161, 83);
+$textcolor: rgba(78, 48, 8, 0.884);
+$mindsetbg: #251503;
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 1262.67px;
+}
+
+.Navbar {
+    display: grid;
+    grid-row: 1;
+    grid-template-columns: 0 4fr 5fr;
+    height: 30px;
+    background-color: black;
+    align-items: center;
+    font-family: "Passion One", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.25em;
+
+    & ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: flex;
+        grid-column: 3;
+        justify-content: space-between;
+
+        & li {
+            color: white;
+            padding: 2rem;
+        }
+    }
+}
+
+.woodstockbg {
+    background-image: url("https://www.teahub.io/photos/full/264-2648820_wood-wallpapers-hd-desktop-download-high-resolution-wooden.jpg");
+    position: relative;
+    height: 44rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.upperlayer {
+    background-color: rgba(0, 0, 0, 0.625);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    z-index: 1;
+    text-transform: uppercase;
+    letter-spacing: .6rem;
+    font-size: xx-large;
+    font-family: "Passion One", sans-serif;
+}
+
+.about {
+    display: flex;
+    gap: 3.6rem;
+    justify-content: space-around;
+    padding: 4.8rem;
+
+    & img {
+        max-height: 480px;
+    }
+
+    & .verticaladd {
+        color: $decorativecolor;
+    }
+
+    & h2 {
+        text-transform: uppercase;
+        font-family: "Passion One", sans-serif;
+    }
+
+    & p {
+        max-width: 80%;
+        font-family: Helvetica, sans-serif;
+        font-size: 1.2rem;
+        font-weight: 300;
+        line-height: 1.8;
+        color: $textcolor;
+    }
+}
+
+.learnmore {
+  appearance: none;
+  background-color: transparent;
+  border: 3px solid $decorativecolor;
+  border-radius: 1px;
+  box-sizing: border-box;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  will-change: transform;
+
+  &:disabled {
+      pointer-events: none;
+  }
+
+  &:hover {
+      color: white;
+      background-color: #1A1A1A;
+      box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+      transform: translateY(-2px);
+  }
+
+  &:active {
+      box-shadow: none;
+      transform: translateY(0);
+  }
+
+  & a {
+      text-decoration: none;
+      color: $textcolor;
+      text-transform: uppercase;
+      letter-spacing: 1.8px;
+
+      &:hover {
+          color: white;
+      }
+
+      &:visited {
+          color: goldenrod;
+      }
+  }
+}
+
+.store {
+    @extend .learnmore;
+}
+
+.shop {
+    @extend .about;
+    padding: 6rem;
+
+    & p {
+        max-width: 100%;
+    }
+
+    & img {
+        max-width: 500px;
+    }
+}
+
+.mindset {
+    background-color: $mindsetbg;
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 7.5rem;
+    gap: 2.5rem;
+
+    & img {
+        opacity: 0.75;
+        object-fit: contain;
+        max-height: 762px;
+    }
+
+    & h2 {
+        font-family: "Passion One", sans-serif;
+        font-size: 3rem;
+        letter-spacing: .2rem;
+        margin-bottom: 0;
+
+        & #creative {
+            background-color: white;
+            padding: .5rem 2rem;
+            color: $mindsetbg;
+            margin-left: -7.5rem;
+            z-index: 0;
+            position: relative;
+        }
+
+        & #goog {
+            color: white;
+        }
+    }
+
+    & p {
+        max-width: 90%;
+        font-family: Helvetica, sans-serif;
+        font-size: 1.2rem;
+        font-weight: 300;
+        line-height: 1.8;
+        color: white;
+        padding: 2.5rem 0;
+    }
+}
+
+.team {
+    @extend .learnmore;
+    align-items: center;
+
+    &:hover {
+        background: black;
+        font-size: 20px;
+        transition: .4s ease-in-out;
+    }
+}
+
+.contactform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 4.5rem;
+
+    h3 {
+        color: $mindsetbg;
+        letter-spacing: .15rem;
+    }
+
+    .name {
+        padding: 15px;
+        display: flex;
+        justify-content: space-between;
+        width: 40%;
+    }
+
+    .emailaddress {
+        @extend .name;
+        justify-content: flex-start;
+    }
+
+    .textarea {
+        @extend .emailaddress;
+
+        textarea {
+            resize: none;
+            border-radius: 6px;
+            border-color: $textcolor;
+            border-width: 1.5px;
+            padding: 6px;
+        }
+    }
+}
+
+input {
+    border-color: $textcolor;
+    border-radius: 18px;
+    border-width: 1.5px;
+    padding: 6px;
+}
+
+::placeholder {
+    color: $decorativecolor;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.04rem;
+}
+
+.footer {
+    height: 90px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    footer {
+        color: white;
+        font-family: "Passion One", sans-serif;
+        font-size: 4.8rem;
+        letter-spacing: 1.8rem;
+    }
+}
