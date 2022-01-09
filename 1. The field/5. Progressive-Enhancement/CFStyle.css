@@ -1,0 +1,158 @@
+p
+{
+	font-size: 1.21em ;
+	font-family: "Times New Roman", serif;
+	letter-spacing: 0.1em;
+	word-spacing: 0.25em;
+	color: Darkred;
+}
+
+a
+{
+	cursor: pointer;
+	color: blue;	
+}
+
+a:hover
+{
+	color: darkmagenta;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a:visited
+{
+	color: teal;
+	cursor: pointer;
+}
+
+body
+{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: rgba(140,108,84,0.14);
+	background-image: url("https://i.imgur.com/rRoO6Zt.png");
+	background-attachment: fixed;
+	background-position: bottom right;
+	background-size: cover;
+}
+
+blockquote
+{
+	max-width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-size: 1.6em;
+	font-style: italic;
+	background-color: gainsboro;
+	border-left: 3px solid firebrick;
+	padding: 40px 0px 40px 30px;
+}
+
+q
+{
+	font-style: italic;
+}
+
+q.Farmer:before
+{
+	content: open-quote;
+	color: teal;
+}
+
+q.Villagers:before
+{
+	content: open-quote;
+	color: goldenrod;
+}
+
+#Motto
+{
+	background-color: yellow;
+	display: inline;
+}
+
+.good
+{
+	text-transform: capitalize;
+	color: green;
+}
+
+.bad
+{
+	text-transform: capitalize;
+	color: red;
+}
+
+tr:nth-child(odd)
+{
+	background-color: white;
+}
+
+tr:nth-child(even)
+{
+	background-color: grey;
+}
+
+td 
+{
+	text-align: center;
+	width: 140px;
+	height: 28px;
+}
+
+table
+{
+	caption-side: bottom;
+}
+
+p:first-of-type
+{
+	font-weight: bold;
+}
+
+ul 
+{
+	list-style-type: square;
+}
+
+li:nth-child(1)
+{
+	background-image: url("https://i.imgur.com/WnXov9E.png");
+	padding-right: 25px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 24% 0%;
+}
+
+li:nth-child(2)
+{
+	background-image: url("https://i.imgur.com/BFlCpgc.png");
+	padding-right: 25px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 24% 0%;
+}
+
+li:nth-child(3)
+{
+	background-image: url("https://i.imgur.com/7zfKMud.png");
+	padding-right: 25px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 24% 0%;
+}
+
+Img.FlLe 
+{ 
+	float: left;
+	margin: 15px;
+	max-width: 35%;
+	height: auto;
+}
+
+figure figcaption
+{
+	text-align: center;
+}

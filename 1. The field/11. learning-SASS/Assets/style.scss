@@ -1,0 +1,115 @@
+$bgcolor: #f0430a;
+$lowercolor: #797a7a;
+$subcolor: #9c2a0b;
+
+body
+{
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: 1px solid rgba(186,186,185,0.6);
+    font-family: Lato, sans-serif;
+    box-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.25s ease-out;
+    &:hover {
+        box-shadow: 8px 8px 64px rgba(0, 0, 0, 0.3);
+        .TopPart {
+            opacity:65%;
+            transition: 0.3s;
+            overflow: hidden;
+            img {
+                transform: scale(1.2);
+                transition: 1s;
+            }
+        }
+        .LowerBlock {
+            transform: translateY(-80px);
+            transition: 1s;
+            .Photos {
+                left: 0px;
+                top: -50px;
+            }
+            .India {
+            height: auto;
+            transition: 1s;
+                   }
+        }
+    }
+}
+
+.LowerBlock
+{
+    background-color: white;
+    padding: 12px 30px 12px 36px;
+    transition: 0.5s;
+}
+
+.Date
+{
+    background-color: $bgcolor;
+    border-radius: 100%;
+    height: 49px;
+    width: 49px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    right: 440px;
+    display: flex;
+    align-items: center;
+    font-size: 1.05em;
+    padding: 4px 2px 0 2px;
+    z-index: 2;
+}
+
+.Photos
+{
+    @extend .Date;
+    border-radius: 0%;
+    width: 98px;
+    height: 28px;
+    text-transform: uppercase;
+    justify-content: center;
+    font-size: 1.12em;
+    font-weight: 400;
+    padding: 4px;
+    top: 217px;
+    right: 743.9px;
+}
+
+.Topic 
+{
+    padding-bottom: 8px;
+    .Title {
+    font-size: 1.7em;
+    font-weight: 700;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    }
+
+    .Subtitle {
+    color: $subcolor;
+    font-size: 1.4em;
+    margin-top: 8px;
+    }
+}
+
+.HiddenText
+{
+    color: $lowercolor;
+}
+
+.Stats
+{
+    display: flex;
+    color: $lowercolor;
+    .Time {
+        padding-right: 16px;
+    }
+}
+
+.India
+{
+    height: 120px;
+    overflow: hidden;
+}

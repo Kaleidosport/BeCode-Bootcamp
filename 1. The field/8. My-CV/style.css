@@ -1,0 +1,132 @@
+.First
+{
+	grid-area: First;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: uppercase;
+	background-color: antiquewhite;
+}
+
+.Coordonnées
+{
+	grid-area: Coordonnées;
+	background-color: moccasin;
+	padding-left: 10px;
+}
+
+.Profil
+{
+	grid-area: Profil;
+	background-color: antiquewhite;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.Langues
+{
+	grid-area: Langues;
+	background-color: moccasin;
+	padding-left: 10px;
+}
+
+.Expérience
+{
+	grid-area: Expérience;
+	background-color: antiquewhite;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.Compétences
+{
+	grid-area: Compétences;
+	background-color: moccasin;
+	padding-left: 10px;
+}
+
+.Personnalité
+{
+	grid-area: Personnalité;
+	background-color: moccasin;
+	padding-left: 10px;
+}
+
+.Formations
+{
+	grid-area: Formations;
+	background-color: antiquewhite;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.Reste
+{
+	grid-area: Reste;
+	background-color: moccasin;
+	padding-left: 10px;
+}
+
+body
+{
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-template-rows: repeat(2, 0.5fr) repeat(3, 1fr) 0.5fr;
+	grid-gap: 10px 15px;
+	grid-template-areas: 
+	"First First"
+	"Coordonnées Profil"
+	"Langues Expérience"
+	"Compétences Expérience"
+	"Personnalité Formations"
+	"Reste Formations";
+	font-family: Helvetica, sans-serif;
+	max-width: 1262.67px;
+	margin-left: 30px;
+	margin-right: 20px;
+}
+
+.First h1
+{
+	font-size: 2.1em;
+	margin-bottom: 0;
+}
+
+.First h2
+{
+	font-size: 1.5em;
+	font-style: italic;
+}
+
+h3
+{
+	padding: 0 20px 0 20px;
+	font-size: 1.4em;
+	background-color: sandybrown;
+	width: max-content;
+}
+
+h4
+{
+	font-size: 1.2em;
+	margin-bottom: 1px;
+}
+
+h5
+{
+	font-family: "Helvetica Light", sans-serif;
+	font-weight: 500;
+	margin-top: 1px;
+	color: sienna;
+}
+
+ul 
+{
+	padding: 0 15px 15px 15px;
+}
+
+.Écart
+{
+	margin-bottom: 7.5px;
+}

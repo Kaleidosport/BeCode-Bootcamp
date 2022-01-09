@@ -1,0 +1,51 @@
+html
+{
+	box-sizing: border-box;
+}
+
+@media only screen and (max-width: 300px) {
+	body {
+		background-color: red;
+		font-size: 1.05em;
+	}
+	#medium, #large {
+		display: none;
+		width: 100%;
+	}
+	#small {
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 300px) {
+	body {
+		background-color: green;
+		font-size: 1.4em;
+	}
+	#small {
+		display: none;
+		width: 66%;
+	}
+	#medium {
+		width: 33%;
+	}
+	#large {
+		display: none;
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	body {
+		background-color: blue;
+		font-size: 1.75em;
+	}
+	#small, #medium {
+		display: none;
+		width: 33%;
+	}
+	#large {
+		display: block;
+		width: 33%;
+	}
+}

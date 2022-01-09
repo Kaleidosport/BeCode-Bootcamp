@@ -1,0 +1,63 @@
+body
+{
+	font-family: "Libre Franklin", sans-serif;
+	margin: auto;
+	background-image: url(./Assets/Background.jpg);
+	max-width: 1262.67px;
+	overflow: hidden;
+	transform: perspective(600px) rotatex(30deg);
+}
+
+.Intro
+{
+	color: #6beefa;
+	font-size: 2em;
+	padding-bottom: 80px;
+}
+
+.Crawl
+{
+	color: gold;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 720px;
+	margin: auto;
+	animation: scroll 48s ease-in-out infinite;
+}
+
+p.Episode
+{
+	font-size: 1.75em;
+	margin-bottom: 8px;
+}
+
+h1.Title
+{
+	text-transform: uppercase;
+	font-size: 2.3em;
+	margin-top: 8px;
+}
+
+p.CrawlText
+{
+	font-size: 1.4em;
+	margin-bottom: 8px;
+	text-align: justify;
+	width: 60%;
+	text-justify: inter-word;
+}
+
+@keyframes scroll
+{
+	0%
+	{
+		transform: translateY(56%);
+	}
+	100%
+	{
+		transform: translateY(-112%);
+	}
+
+}
