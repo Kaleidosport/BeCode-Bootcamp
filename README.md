@@ -1,3 +1,4 @@
 # BeCode-Bootcamp
   
-Added the field, will have to adjust with challenges.  
+Added the field, will have to adjust with challenges.
+Also added the hill, to be straightened as well.  
