@@ -33,3 +33,18 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
       
 ---  
 
+<div align="center"><h2>TRAIL</h2></div>
+
+<h4>Emoji key</h4>    
+  
+<pre>
+    <code>:memo: => Acces the appropriate repository,
+    :computer: => Access an online version of the project,
+    :white_check_mark: => Completed project,
+    :construction: => Unfinished project,
+    :link: => Teammates.
+    </code>
+</pre>      
+            
+### THE FIELD  
+>   
