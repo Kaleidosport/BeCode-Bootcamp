@@ -25,7 +25,7 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
 :school: | **Where:** [A6K](https://www.a6k.be/) in Charleroi.  
 :thought_balloon: | **What:** [Junior web developer](https://becode.org/learn/junior-web-developer/) inclusive coding bootcamp.  
 :open_file_folder: | **Promo:** Woods 5.33.  
-:notebook_with_decorative_cover: | **Head coach:** [Arnaud Duchemin](https://github.com/Cervant3s).    
+:eyes: | **Head coach:** [Arnaud Duchemin](https://github.com/Cervant3s).    
       
 ---  
 
