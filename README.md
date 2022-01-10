@@ -46,7 +46,7 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
     🔗 => Teammates.</code>
 </pre>        
               
-### THE FIELD  
+### 1. THE FIELD 🍀     
 > :calendar: *[23/08/2021 - 17/09/2021]* → :mag: *Terminal, Git & Front-End*  
 
 <h4>Overview</h4>  
@@ -66,8 +66,40 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
   </tr>
 </table>  
 
-**Summary:** One month to get a good grasp of the basics.  
+**Summary:** One month to get a good grasp of the basics. Baby steps can be crucial.    
 **Quote:** *In a time of destruction, create something.* (M. H. Kingston)  
 **Key moment:** Being able to build a proper, responsive page.  
+    
+#### Content    
   
-  
+* Terminal → *Powershell & Git Bash in my case*  
+* Git  
+  * ✅ Headstart → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/01.%20Headstart)    
+  * ✅ Exercise exquisite corpse → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/02.%20exercise-exquisite-corpse)  
+* MarkDown     
+  * ✅ MarkDown task → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/03.%20MarkdownTask)  
+    * _Paired with:_  
+      🔗 [Jean-Louis Houdret](https://github.com/houdret)  
+  * ✅ Challenge MarkDown → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/04.%20Challenge-MarkDown)  
+* HTML5-CSS3  
+  * ✅ Progressive enhancement → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/05.%20Progressive-Enhancement)  
+  * ✅ MarkDown warmup HTML → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/06.%20markdown-warmup-html) + [💻](https://kaleidosport.github.io/markdown-warmup-html/)    
+  * ✅ Woods 404 page → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/07.%20Woods-404-page) + [💻](https://kaleidosport.github.io/Woods-404-page/)  
+  * ✅ My CV → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/08.%20My-CV) + [💻](https://kaleidosport.github.io/My-CV/)  
+  * ✅ Star Wars crawl → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/09.%20Star-Wars-Crawl) + [💻](https://kaleidosport.github.io/Star-Wars-Crawl)  
+  * ✅ Responsive intro → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/10.%20Responsive-Intro)  
+  * 📌✅ _Solo challenge:_ Turlututu → [📝](https://github.com/Kaleidosport/turlututu) + [💻](https://kaleidosport.github.io/turlututu)    
+* Sass  
+  * 🚧 Learning Sass → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/11.%20learning-SASS) + [💻](https://kaleidosport.github.io/learning-SASS)  
+* Bootstrap  
+  * ✅ Responsive intro → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/12.%20Bootstrap-Training) + [💻](https://kaleidosport.github.io/Bootstrap-Training)  
+  * 📌✅ _Team challenge:_ Restaurant CSS framework → _My part:_ [📝](https://github.com/Kaleidosport/Restaurant-CSS-Framework-AL) + [💻](https://kaleidosport.github.io/Restaurant-CSS-Framework-AL/) || _Group:_ [📝](https://github.com/FourneauxThibaut/restaurant-css-framework) + [💻](https://fourneauxthibaut.github.io/restaurant-css-framework/)  
+    * _Completed with sterling success thanks to my teammates:_  
+      🔗 [Thibaut Fourneaux](https://github.com/FourneauxThibaut)  
+      🔗 [Sara Laloux](https://github.com/saralaloux)  
+      🔗 [Romain Berthaux](https://github.com/kawtagan)    
+* JavaScript  
+  * ✅ Algo-JS → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/13.%20Algo-JS)  
+
+---  
+           

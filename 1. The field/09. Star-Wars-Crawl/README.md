@@ -8,7 +8,7 @@
 ---  
 ## Prévisualisation  
 
-![Résultat](Assets/Résultats.jpg)  
+![Résultat](./Assets/Résultats.jpg)  
 
 ---         
     
