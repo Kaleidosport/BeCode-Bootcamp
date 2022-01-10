@@ -33,18 +33,20 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
       
 ---  
 
-<div align="center"><h2>TRAIL</h2></div>
+<div align="center"><h2>:vertical_traffic_light: TRAIL :vertical_traffic_light:</h2></div>
 
 <h4>Emoji key</h4>    
   
 <pre>
-    <code>:memo: => Acces the appropriate repository,
-    :computer: => Access an online version of the project,
-    :white_check_mark: => Completed project,
-    :construction: => Unfinished project,
-    :link: => Teammates.
-    </code>
-</pre>      
-            
+    <code>📝 => Acces the appropriate repository,
+    💻 => Access an online version of the project,
+    ✅ => Completed project,
+    🚧 => Unfinished project,
+    📌 => Challenge,
+    🔗 => Teammates.</code>
+</pre>        
+              
 ### THE FIELD  
->   
+> :calendar: *[23/08/2021 - 17/09/2021]* → :mag: *Terminal, Git & Front-End*  
+
+Bla.   
