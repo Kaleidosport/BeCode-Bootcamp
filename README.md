@@ -21,11 +21,11 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
     <img src="./Assets/timeline.png" alt="Pedagogy timeline"/>
 </details>  
 
-:date: From August 23rd 2021 to March 8th 2022.  
-:school: [A6K](https://www.a6k.be/) in Charleroi.  
-:thought_balloon: [Junior web developer](https://becode.org/learn/junior-web-developer/) inclusive coding bootcamp.  
-:open_file_folder: Member of the Woods 5.33 prom.  
-:microscope: [Arnaud Duchemin](https://github.com/Cervant3s) served as head coach.  
+:date: | **When:** From August 23rd 2021 to March 8th 2022.  
+:school: | **Where:** [A6K](https://www.a6k.be/) in Charleroi.  
+:thought_balloon: | **What:** [Junior web developer](https://becode.org/learn/junior-web-developer/) inclusive coding bootcamp.  
+:open_file_folder: | **Promo:** Woods 5.33.  
+:microscope: | **Head coach:** [Arnaud Duchemin](https://github.com/Cervant3s).    
       
 ---  
 
