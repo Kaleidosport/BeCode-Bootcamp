@@ -49,9 +49,12 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
 ### THE FIELD  
 > :calendar: *[23/08/2021 - 17/09/2021]* → :mag: *Terminal, Git & Front-End*  
 
-<h5>Core techs</h5>  
+<h4>Overview</h4>  
 
 <table>
+  <tr>
+    <th colspan="7">Core techs at stake</th>
+  </tr>
   <tr>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px" alt="Git"/><br /><sub><b>Git</b></sub></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="35px" alt="MarkDown"/><br /><sub><b>MarkDown</b></sub></td>
@@ -61,4 +64,10 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="35px" alt="Bootstrap"/><br /><sub><b>Bootstrap</b></sub></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px" alt="JavaScript"/><br /><sub><b>JavaScript</b></sub></td>
   </tr>
-</table>    
+</table>  
+
+**Summary:** One month to get a good grasp of the basics.  
+**Quote:** *In a time of destruction, create something.* (M. H. Kingston)  
+**Key moment:** Being able to build a proper, responsive page.  
+  
+  
