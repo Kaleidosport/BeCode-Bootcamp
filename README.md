@@ -177,8 +177,8 @@ Since it felt like the best way to hone my craft in regard to **algorithms and l
   * ✅ Fundamentals → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/01.%20PHP-Fundamentals)  
   * ✅ PHP & SQL → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/02.%20PHP-2-SQL)  
   * ✅ OOP → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/03.%20OOP-Training)  _I scaffolded my own learning path to get a better grasp of OOP_  
-  * 📌🚧 _Solo challenge:_ __Personal contact page__ → [📝](https://github.com/Kaleidosport/Personal-contact-page) + [💻](http://playground.narrateur.be/)  _Definitely not my best piece_   
-  * 📌✅ _Team challenge:_ __COGIP__ → [📝](https://github.com/Kaleidosport/cogip) + [💻](https://c0gip.000webhostapp.com/AdminController/login)  _Invoicing app based on the movie La personne aux deux personnes_ :movie_camera:               
+  * 📌🚧 _Solo challenge:_ __Personal contact page__ → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/12.%20Challenges/01.%20Personal-contact-page) + [💻](http://playground.narrateur.be/)  _Definitely not my best piece_   
+  * 📌✅ _Team challenge:_ __COGIP__ → [📝](https://github.com/Kaleidosport/cogip) + [💻](https://c0gip.000webhostapp.com/AdminController/login)  _Invoicing app based on the French movie La personne aux deux personnes with Daniel Auteuil & Alain Chabat_ :movie_camera:               
     * _Completed with sterling success owing to the astute demeanor of the whole team:_    
       🔗 [Aline Bosser](https://github.com/AlineBsr)      
       🔗 [Romain Berthaux](https://github.com/kawtagan)      
@@ -200,4 +200,24 @@ Since it felt like the best way to hone my craft in regard to **algorithms and l
     
 <div align="center"><h2>:newspaper: TECH TALKS :mega:</h2></div>  
   
-<h4></h4>  
+<h4>Description</h4>  
+
+Aside from complying with the preceding trail, every trainee was tasked with a bunch of **oral presentations** throughout the duration of the bootcamp. Said presentations covered a wide scope, considering they encompassed programming languages, soft skills, historical reviews, hot topics... Every subject could be relevant as long as it was related to web development in its broadest sense. This appealed to me since I saw in this assignment a way to foster my background as a PR boy.  
+
+Due to the fact it's common custom for our promotion to use French as main oral language, all my support materials have been written in French as well. All of those on [Genially](https://genial.ly/), my ride-or-die! :clipboard:          
+  
+<h4>List of my tech talks</h4>  
+
+[x] [Ergonomics, part 1](https://view.genial.ly/6145d46aae7dec0dd432c4b8/presentation-fondements-de-lergonomie) - _(September 21st 2021)_  
+[x] [Ergonomics, part 2](https://view.genial.ly/6148c830440ebc0dcc7acc85/presentation-methodes-de-lergonomie-web) - _(October 7th 2021)_  
+[x] [Presentation support materials](https://view.genial.ly/61772e580a6b5e0d7f6d0fa7/presentation-supports-de-presentation) - _(October 26th 2021)_  
+[x] [Survival starter pack](https://view.genial.ly/61b78f2462efe30df5f21742/presentation-survival-starter-pack) - _(December 14th 2021)_  
+[ ] On intellectual property - _(January 14th 2022)_  
+
+---  
+
+<h3>On to the next journey</h3>  
+
+<a href="https://www.linkedin.com/in/anthonylambert14/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="70px" alt="My LinkedIn"/></a> <a href="https://twitter.com/Kaleidosport"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="70px" alt="My Twitter"/></a>  
+
+![MIT license](https://img.shields.io/badge/license-MIT-informational)         
