@@ -145,5 +145,46 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
 
 Since it felt like the best way to hone my craft in regard to **algorithms and logical thinking**, I decided to pull out all the stops and take up the challenge on [📝 CodeWars](https://github.com/Kaleidosport/CodeWars). While I'm currently rendered at the **5-kyu** rank, I aim for the upper mark in the short run.  
 
----  
+---    
+  
+### 3. THE MOUNTAIN 🏔️         
+> :calendar: *[08/11/2021 - 14/01/2022]* → :mag: *Back-End & a JS framework*  
 
+<h4>Overview</h4>  
+
+<table>
+  <tr>
+    <th colspan="7">Core techs at stake</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px" alt="PHP"/><br /><sub><b>PHP</b></sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="35px" alt="MySQL"/><br /><sub><b>MySQL</b></sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px" alt="NodeJS"/><br /><sub><b>NodeJS</b></sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="35px" alt="ExpressJS"/><br /><sub><b>ExpressJS</b></sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="35px" alt="MongoDB"/><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="35px" alt="SocketIO"/><br /><sub><b>SocketIO</b></sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35px" alt="React"/><br /><sub><b>React</b></sub></td>
+  </tr>
+</table>  
+
+**Summary:** Getting accustomed to served-side programming through handy projects.      
+**Quote:** *Behind every exquisite thing that existed, there was something tragic.* (O. Wilde)    
+**Key moment:** I took things up a notch by shouldering the technical lead on the chat project.    
+    
+#### Content    
+  
+* JavaScript season 1 → *11 steps to get a clearer view of JS perks*  
+  * ✅ Season 1's exercises → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/01.%20JavaScript_Season1)  
+  * 📌✅ _Solo challenge:_ __Hangman__ → [📝](https://github.com/Kaleidosport/Hangman) + [💻](https://kaleidosport.github.io/Hangman/)  _World of Warcraft Edition_ ⚔️       
+* JavaScript season 2 → *Diving deeper into JS*    
+  * ✅ Ajax-wsrequest → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/02.%20Ajax-wsrequest) + [💻](https://kaleidosport.github.io/Ajax-wsrequest/)   
+  * 🚧 PewPew → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/03.%20PewPew) + [💻](https://kaleidosport.github.io/PewPew/)  _Cheap Space Shooter built with Canvas_ 🚀  
+  * ✅ Jasmine → [📝](https://github.com/Kaleidosport/JavaScript_Season2/tree/main/3.Jasmine) _More advanced algorithms_      
+  * 📌✅ _Team challenge:_ __Cookie Clicker__ → [📝](https://github.com/Kaleidosport/Cookie-Clicker) + [💻](https://kaleidosport.github.io/Cookie-Clicker/)  _Early tribute to the Bogdanoff bros_ 👽           
+    * _Completed with sterling success thanks to my outstanding teammates:_  
+      🔗 [Thibaut Fourneaux](https://github.com/FourneauxThibaut)    
+      🔗 [Sarah Dade](https://github.com/SarahDade)    
+      🔗 [Zaccaria Tabi](https://github.com/tbzaccaria)  
+  * 📌✅ _Duo challenge:_ __JS data visualization challenge__ → [📝](https://github.com/Kaleidosport/js-datavisualisation-challenge) + [💻](https://saralaloux.github.io/js-datavisualisation-challenge/)  _Data visualization with Chart.js_       
+    * _Props to a blissful pairing with:_  
+      🔗 [Sara Laloux](https://github.com/saralaloux)    
