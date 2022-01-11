@@ -208,11 +208,11 @@ Due to the fact it's common custom for our promotion to use French as main oral 
   
 <h4>List of my tech talks</h4>  
 
-[x] [Ergonomics, part 1](https://view.genial.ly/6145d46aae7dec0dd432c4b8/presentation-fondements-de-lergonomie) - _(September 21st 2021)_  
-[x] [Ergonomics, part 2](https://view.genial.ly/6148c830440ebc0dcc7acc85/presentation-methodes-de-lergonomie-web) - _(October 7th 2021)_  
-[x] [Presentation support materials](https://view.genial.ly/61772e580a6b5e0d7f6d0fa7/presentation-supports-de-presentation) - _(October 26th 2021)_  
-[x] [Survival starter pack](https://view.genial.ly/61b78f2462efe30df5f21742/presentation-survival-starter-pack) - _(December 14th 2021)_  
-[ ] On intellectual property - _(January 14th 2022)_  
+- [x] [Ergonomics, part 1](https://view.genial.ly/6145d46aae7dec0dd432c4b8/presentation-fondements-de-lergonomie) - _(September 21st 2021)_  
+- [x] [Ergonomics, part 2](https://view.genial.ly/6148c830440ebc0dcc7acc85/presentation-methodes-de-lergonomie-web) - _(October 7th 2021)_  
+- [x] [Presentation support materials](https://view.genial.ly/61772e580a6b5e0d7f6d0fa7/presentation-supports-de-presentation) - _(October 26th 2021)_  
+- [x] [Survival starter pack](https://view.genial.ly/61b78f2462efe30df5f21742/presentation-survival-starter-pack) - _(December 14th 2021)_  
+- [ ] On intellectual property - _(January 14th 2022)_  
 
 ---  
 
