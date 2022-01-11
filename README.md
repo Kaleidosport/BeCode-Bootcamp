@@ -88,12 +88,12 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
   * ✅ My CV → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/08.%20My-CV) + [💻](https://kaleidosport.github.io/My-CV/)  
   * ✅ Star Wars crawl → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/09.%20Star-Wars-Crawl) + [💻](https://kaleidosport.github.io/Star-Wars-Crawl)  
   * ✅ Responsive intro → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/10.%20Responsive-Intro)  
-  * 📌✅ _Solo challenge:_ Turlututu → [📝](https://github.com/Kaleidosport/turlututu) + [💻](https://kaleidosport.github.io/turlututu)    
+  * 📌✅ _Solo challenge:_ __Turlututu__ → [📝](https://github.com/Kaleidosport/turlututu) + [💻](https://kaleidosport.github.io/turlututu)    
 * Sass  
   * 🚧 Learning Sass → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/11.%20learning-SASS) + [💻](https://kaleidosport.github.io/learning-SASS)  
 * Bootstrap  
   * ✅ Responsive intro → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/12.%20Bootstrap-Training) + [💻](https://kaleidosport.github.io/Bootstrap-Training)  
-  * 📌✅ _Team challenge:_ Restaurant CSS framework → _My part:_ [📝](https://github.com/Kaleidosport/Restaurant-CSS-Framework-AL) + [💻](https://kaleidosport.github.io/Restaurant-CSS-Framework-AL/) || _Group:_ [📝](https://github.com/FourneauxThibaut/restaurant-css-framework) + [💻](https://fourneauxthibaut.github.io/restaurant-css-framework/)  
+  * 📌✅ _Team challenge:_ __Restaurant CSS framework__ → _My part:_ [📝](https://github.com/Kaleidosport/Restaurant-CSS-Framework-AL) + [💻](https://kaleidosport.github.io/Restaurant-CSS-Framework-AL/) || _Group:_ [📝](https://github.com/FourneauxThibaut/restaurant-css-framework) + [💻](https://fourneauxthibaut.github.io/restaurant-css-framework/)  
     * _Completed with sterling success thanks to my teammates:_  
       🔗 [Thibaut Fourneaux](https://github.com/FourneauxThibaut)  
       🔗 [Sara Laloux](https://github.com/saralaloux)  
@@ -101,5 +101,50 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
 * JavaScript  
   * ✅ Algo-JS → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/13.%20Algo-JS)  
 
+---    
+
+### 2. THE HILL 🍀     
+> :calendar: *[20/09/2021 - 29/10/2021]* → :mag: *JavaScript all the way*  
+
+<h4>Overview</h4>  
+
+<table>
+  <tr>
+    <th>Core tech at stake</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px" alt="JavaScript"/><br /><sub><b>JavaScript</b></sub></td>
+  </tr>
+</table>  
+
+**Summary:** JavaScript syntax, algorithms and games.    
+**Quote:** *Our greatest fear is that we are powerful beyond measure.* (M. Williamson)  
+**Key moment:** Not gonna lie, seeing my logical thinking skills dart forward was kinda cool.  
+    
+#### Content    
+  
+* JavaScript season 1 → *11 steps to get a clearer view of JS perks*  
+  * ✅ Season 1's exercises → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/01.%20JavaScript_Season1)  
+  * 📌✅ _Solo challenge:_ __Hangman__ → [📝](https://github.com/Kaleidosport/Hangman) + [💻](https://kaleidosport.github.io/Hangman/)  _World of Warcraft Edition_ ⚔️       
+* JavaScript season 2 → *Diving deeper into JS*    
+  * ✅ Ajax-wsrequest → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/02.%20Ajax-wsrequest) + [💻](https://kaleidosport.github.io/Ajax-wsrequest/)   
+  * 🚧 PewPew → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/03.%20PewPew) + [💻](https://kaleidosport.github.io/PewPew/)  _Cheap Space Shooter built with Canvas_ 🚀  
+  * ✅ Jasmine → [📝](https://github.com/Kaleidosport/JavaScript_Season2/tree/main/3.Jasmine) _More advanced algorithms_      
+  * 📌✅ _Team challenge:_ __Cookie Clicker__ → [📝](https://github.com/Kaleidosport/Cookie-Clicker) + [💻](https://kaleidosport.github.io/Cookie-Clicker/)  _Early tribute to the Bogdanoff bros_         
+    * _Completed with sterling success thanks to my outstanding teammates:_  
+      🔗 [Thibaut Fourneaux](https://github.com/FourneauxThibaut)    
+      🔗 [Sarah Dade](https://github.com/SarahDade)    
+      🔗 [Zaccaria Tabi](https://github.com/tbzaccaria)  
+  * 📌✅ _Duo challenge:_ __JS data visualization challenge__ → [📝](https://github.com/Kaleidosport/js-datavisualisation-challenge) + [💻](https://saralaloux.github.io/js-datavisualisation-challenge/)  _Data visualization with Chart.js_       
+    * _Props to a blissful pairing with:_  
+      🔗 [Sara Laloux](https://github.com/saralaloux)             
+  
+#### Side self-challenge  
+
+[![Badge](https://www.codewars.com/users/Kaleidosport/badges/small)](https://www.codewars.com/users/Kaleidosport)    
+
+Since it felt like the best way to hone my craft in regard to algorithms and logical thinking, I decided to pull out all the stops and take up the challenge on [📝 CodeWars](https://github.com/Kaleidosport/CodeWars). While I'm currently rendered at the 5-kyu rank, I aim for the upper mark in the short run.  
+
 ---  
+  
            
