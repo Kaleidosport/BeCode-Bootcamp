@@ -1,0 +1,89 @@
+h1, small, h5 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+}
+
+small {
+  font-family: Poppins, sans-serif;
+}
+
+.text-khaki, footer a:focus, footer a:active, footer a:hover {
+  color: #f0e68c;
+  --bs-text-opacity: 1;
+}
+
+.bg-kal {
+  background: #305DB9;
+  background: linear-gradient(300deg, #305DB9, #131C21);
+}
+
+main {
+  font-family: Poppins, sans-serif;
+}
+
+.section-border {
+  border: .1rem dashed black;
+  border-radius: 1.5rem;
+}
+
+.kal-h2 {
+  font-family: "Bebas Neue", cursive;
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: #305DB9;
+}
+
+@media (min-width: 456px) {
+  #mobiletext {
+    display: none;
+  }
+}
+
+#messageArea {
+  height: 7.5rem;
+}
+
+label, .form-label {
+  color: #305DB9;
+}
+
+.form-label {
+  font-weight: 600;
+}
+
+.form-control, .form-select {
+  color: #131C21;
+}
+
+.reverse-bg-kal {
+  background: #131C21;
+  background: linear-gradient(60deg, #305DB9, #131C21);
+}
+
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: .6rem !important;
+  font-family: Poppins, sans-serif;
+}
+
+footer {
+  font-size: .8rem !important;
+  font-family: Poppins, sans-serif;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:focus, footer a:active, footer a:hover {
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .last-div {
+    text-align: center;
+  }
+}
+/*# sourceMappingURL=style.css.map */

@@ -173,18 +173,31 @@ Since it felt like the best way to hone my craft in regard to **algorithms and l
     
 #### Content    
   
-* JavaScript season 1 → *11 steps to get a clearer view of JS perks*  
-  * ✅ Season 1's exercises → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/01.%20JavaScript_Season1)  
-  * 📌✅ _Solo challenge:_ __Hangman__ → [📝](https://github.com/Kaleidosport/Hangman) + [💻](https://kaleidosport.github.io/Hangman/)  _World of Warcraft Edition_ ⚔️       
-* JavaScript season 2 → *Diving deeper into JS*    
-  * ✅ Ajax-wsrequest → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/02.%20Ajax-wsrequest) + [💻](https://kaleidosport.github.io/Ajax-wsrequest/)   
-  * 🚧 PewPew → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/03.%20PewPew) + [💻](https://kaleidosport.github.io/PewPew/)  _Cheap Space Shooter built with Canvas_ 🚀  
-  * ✅ Jasmine → [📝](https://github.com/Kaleidosport/JavaScript_Season2/tree/main/3.Jasmine) _More advanced algorithms_      
-  * 📌✅ _Team challenge:_ __Cookie Clicker__ → [📝](https://github.com/Kaleidosport/Cookie-Clicker) + [💻](https://kaleidosport.github.io/Cookie-Clicker/)  _Early tribute to the Bogdanoff bros_ 👽           
-    * _Completed with sterling success thanks to my outstanding teammates:_  
-      🔗 [Thibaut Fourneaux](https://github.com/FourneauxThibaut)    
-      🔗 [Sarah Dade](https://github.com/SarahDade)    
-      🔗 [Zaccaria Tabi](https://github.com/tbzaccaria)  
-  * 📌✅ _Duo challenge:_ __JS data visualization challenge__ → [📝](https://github.com/Kaleidosport/js-datavisualisation-challenge) + [💻](https://saralaloux.github.io/js-datavisualisation-challenge/)  _Data visualization with Chart.js_       
-    * _Props to a blissful pairing with:_  
-      🔗 [Sara Laloux](https://github.com/saralaloux)    
+* PHP    
+  * ✅ Fundamentals → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/01.%20PHP-Fundamentals)  
+  * ✅ PHP & SQL → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/02.%20PHP-2-SQL)  
+  * ✅ OOP → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/03.%20OOP-Training)  _I scaffolded my own learning path to get a better grasp of OOP_  
+  * 📌🚧 _Solo challenge:_ __Personal contact page__ → [📝](https://github.com/Kaleidosport/Personal-contact-page) + [💻](http://playground.narrateur.be/)  _Definitely not my best piece_   
+  * 📌✅ _Team challenge:_ __COGIP__ → [📝](https://github.com/Kaleidosport/cogip) + [💻](https://c0gip.000webhostapp.com/AdminController/login)  _Invoicing app based on the movie La personne aux deux personnes_ :movie_camera:               
+    * _Completed with sterling success owing to the astute demeanor of the whole team:_    
+      🔗 [Aline Bosser](https://github.com/AlineBsr)      
+      🔗 [Romain Berthaux](https://github.com/kawtagan)      
+      🔗 [Messaoud Dorchies](https://github.com/MessDorchies)             
+* NodeJS → *Really liked that one, kind of like a revival* :star:        
+  * ✅ Getting started → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/04.%20NodeJS)     
+  * ✅ Kaleidocard → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/05.%20kaleidocard)  _My very own NPX card, get it with:_ ```npx kaleidosport-card```   
+  * ✅ firstapp → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/06.%20firstapp)   
+  * 🚧 Mongo → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/07.%20Mongo) _Unfinished but I didn't need more to tame MongoDB_           
+  * 📌✅ _Duo challenge:_ __Real time chat app__ → [📝](https://github.com/Kaleidosport/chat-Node) + [💻](https://radio-manganime.herokuapp.com/)  _Manga & anime Edition_ :crystal_ball:         
+    * _Paired with my creative buddy:_    
+      🔗 [Romain Berthaux](https://github.com/kawtagan)      
+* React  
+  * ✅ Woodstock → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/09.%20woodstock) + [💻](https://kaleidosport.github.io/woodstock/)  
+  * 🚧 Tomatimer → _To be added_ :alarm_clock:  
+  * 🚧 Movie browser app → _To be added_     
+  
+---  
+    
+<div align="center"><h2>:newspaper: TECH TALKS :mega:</h2></div>  
+  
+<h4></h4>  
