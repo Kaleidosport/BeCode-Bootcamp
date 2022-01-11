@@ -85,8 +85,8 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
   * ✅ Progressive enhancement → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/05.%20Progressive-Enhancement)  
   * ✅ MarkDown warmup HTML → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/06.%20markdown-warmup-html) + [💻](https://kaleidosport.github.io/markdown-warmup-html/)    
   * ✅ Woods 404 page → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/07.%20Woods-404-page) + [💻](https://kaleidosport.github.io/Woods-404-page/)  
-  * ✅ My CV → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/08.%20My-CV) + [💻](https://kaleidosport.github.io/My-CV/)  
-  * ✅ Star Wars crawl → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/09.%20Star-Wars-Crawl) + [💻](https://kaleidosport.github.io/Star-Wars-Crawl)  
+  * ✅ My CV → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/08.%20My-CV) + [💻](https://kaleidosport.github.io/My-CV/) _Online resume using grid layout_    
+  * ✅ Star Wars crawl → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/09.%20Star-Wars-Crawl) + [💻](https://kaleidosport.github.io/Star-Wars-Crawl) _Best way to test out CSS transitions_    
   * ✅ Responsive intro → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/1.%20The%20field/10.%20Responsive-Intro)  
   * 📌✅ _Solo challenge:_ __Turlututu__ → [📝](https://github.com/Kaleidosport/turlututu) + [💻](https://kaleidosport.github.io/turlututu)    
 * Sass  
@@ -103,7 +103,7 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
 
 ---    
 
-### 2. THE HILL 🍀     
+### 2. THE HILL 🌲       
 > :calendar: *[20/09/2021 - 29/10/2021]* → :mag: *JavaScript all the way*  
 
 <h4>Overview</h4>  
@@ -130,7 +130,7 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
   * ✅ Ajax-wsrequest → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/02.%20Ajax-wsrequest) + [💻](https://kaleidosport.github.io/Ajax-wsrequest/)   
   * 🚧 PewPew → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/2.%20The%20hill/03.%20PewPew) + [💻](https://kaleidosport.github.io/PewPew/)  _Cheap Space Shooter built with Canvas_ 🚀  
   * ✅ Jasmine → [📝](https://github.com/Kaleidosport/JavaScript_Season2/tree/main/3.Jasmine) _More advanced algorithms_      
-  * 📌✅ _Team challenge:_ __Cookie Clicker__ → [📝](https://github.com/Kaleidosport/Cookie-Clicker) + [💻](https://kaleidosport.github.io/Cookie-Clicker/)  _Early tribute to the Bogdanoff bros_         
+  * 📌✅ _Team challenge:_ __Cookie Clicker__ → [📝](https://github.com/Kaleidosport/Cookie-Clicker) + [💻](https://kaleidosport.github.io/Cookie-Clicker/)  _Early tribute to the Bogdanoff bros_ 👽           
     * _Completed with sterling success thanks to my outstanding teammates:_  
       🔗 [Thibaut Fourneaux](https://github.com/FourneauxThibaut)    
       🔗 [Sarah Dade](https://github.com/SarahDade)    
@@ -139,12 +139,11 @@ The organization's pedagogy emphasises on active, differentiated learning in a m
     * _Props to a blissful pairing with:_  
       🔗 [Sara Laloux](https://github.com/saralaloux)             
   
-#### Side self-challenge  
+#### Side self-challenge 😎      
 
-[![Badge](https://www.codewars.com/users/Kaleidosport/badges/small)](https://www.codewars.com/users/Kaleidosport)    
+[![Badge](https://www.codewars.com/users/Kaleidosport/badges/large)](https://www.codewars.com/users/Kaleidosport)    
 
-Since it felt like the best way to hone my craft in regard to algorithms and logical thinking, I decided to pull out all the stops and take up the challenge on [📝 CodeWars](https://github.com/Kaleidosport/CodeWars). While I'm currently rendered at the 5-kyu rank, I aim for the upper mark in the short run.  
+Since it felt like the best way to hone my craft in regard to **algorithms and logical thinking**, I decided to pull out all the stops and take up the challenge on [📝 CodeWars](https://github.com/Kaleidosport/CodeWars). While I'm currently rendered at the **5-kyu** rank, I aim for the upper mark in the short run.  
 
 ---  
-  
-           
+
