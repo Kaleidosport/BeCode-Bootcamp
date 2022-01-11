@@ -167,7 +167,7 @@ Since it felt like the best way to hone my craft in regard to **algorithms and l
   </tr>
 </table>  
 
-**Summary:** Getting accustomed to served-side programming through handy projects.      
+**Summary:** Getting accustomed to server-side programming through handy projects.      
 **Quote:** *Behind every exquisite thing that existed, there was something tragic.* (O. Wilde)    
 **Key moment:** I took things up a notch by shouldering the technical lead on the chat project.    
     
