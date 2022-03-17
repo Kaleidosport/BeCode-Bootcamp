@@ -193,8 +193,8 @@ Since it felt like the best way to hone my craft in regard to **algorithms and l
       🔗 [Romain Berthaux](https://github.com/kawtagan)      
 * React  
   * ✅ Woodstock → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/09.%20woodstock) + [💻](https://kaleidosport.github.io/woodstock/)  
-  * 🚧 Tomatimer → _To be added_ :alarm_clock:  
-  * 🚧 Movie browser app → _To be added_     
+  * 🚧 Tomatimer → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/10.%20tomatimer) _Unfinished business_ :alarm_clock:  
+  * ✅ Movie browser app → [📝](https://github.com/Kaleidosport/BeCode-Bootcamp/tree/main/3.%20The%20mountain/11.%20movie_browser) _Last but not least_     
   
 ---  
     
@@ -212,10 +212,10 @@ Due to the fact it's common custom for our promotion to use French as main oral 
 - [x] [Ergonomics, part 2](https://view.genial.ly/6148c830440ebc0dcc7acc85/presentation-methodes-de-lergonomie-web) - _(October 7th 2021)_  
 - [x] [Presentation support materials](https://view.genial.ly/61772e580a6b5e0d7f6d0fa7/presentation-supports-de-presentation) - _(October 26th 2021)_  
 - [x] [Survival starter pack](https://view.genial.ly/61b78f2462efe30df5f21742/presentation-survival-starter-pack) - _(December 14th 2021)_  
-- [ ] On intellectual property - _(January 14th 2022)_  
+- [x] [On intellectual property](https://view.genial.ly/61e061e2b5ddd60dcc34f7b1/presentation-la-propriete-intellectuelle) - _(January 14th 2022)_  
 
 ---  
-
+  
 <h3>On to the next journey</h3>  
 
 <a href="https://www.linkedin.com/in/anthonylambert14/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="70px" alt="My LinkedIn"/></a> <a href="https://twitter.com/Kaleidosport"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="70px" alt="My Twitter"/></a>  
